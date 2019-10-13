@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yeexengees.macak.co.uk/sitemap.xml
